@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.copyright{
+    
+      text-align: center;
+      padding: 10px;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+}
+.About{
+    display: flex;
+    align-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    margin-left: 5ch;
+    margin-right: 5ch;
+    margin-bottom: 5ch;
+}
+.contact{
+    font-weight: bold ;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    margin-left: 5ch;
+    margin-right: 5ch;
+    margin-bottom: 5ch;
+}
+.contact ul{
+    font-style: italic;
+}
