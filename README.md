@@ -1,9 +1,6 @@
 <a name="readme-top"></a>
 <br />
 <div align="center">
-  <a href="https://github.com/ashishlamsal/sentiment-analysis">
-    <img src="./frontend/public/logo.svg" alt="Logo" width="80" height="80">
-  </a>
 
   <h3 align="center">Sentiment Analysis for Nepali Text</h3>
 
