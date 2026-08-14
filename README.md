@@ -21,14 +21,7 @@
 - [About The Project](#about-the-project)
 - [Dataset](#dataset)
 - [Model](#model)
-- [Installation](#installation)
-  - [Step 1: Clone the project](#step-1-clone-the-project)
-  - [Step 2: Install and Run Backend Application](#step-2-install-and-run-backend-application)
-  - [Step 3: Install and Run Frontend Application](#step-3-install-and-run-frontend-application)
-  - [Step 4: Open the application in browser](#step-4-open-the-application-in-browser)
-- [Evaluation](#evaluation)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+
 
 ## About The Project
 
