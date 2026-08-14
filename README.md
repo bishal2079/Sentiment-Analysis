@@ -6,9 +6,7 @@
 
   <p align="center">
     In this project, we used MURIL (Multilingual Unsupervised Representations for Indian Languages), a multilingual BERT model, to perform sentiment analysis on Nepali text.
-    <br />
-    <a href="https://sentiment-analysis-ashishlamsal.vercel.app"><strong>View Demo »</strong></a>
-    <br />
+    
   </p>
 </div>
 
